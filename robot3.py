@@ -1,7 +1,7 @@
-#Aqui poneis el Docstring que querais
+ #la informacion ha sido sacada de este enlace: https://www.printables.com/model/818975-compact-robot-arm-arduino-3d-printed/files
+#Programación de un brazo robótico realizado en c++ y convertido a python.Este trabajo esta sacado de https://www.youtube.com/watch?v=AIsVlgopqJc&t=794sque es la parte 1 y https://www.youtube.com/watch?v=OiQKw0lZ5Rw&t=18s que es la parte 2.
+
 """
-  la informacion ha sido sacada de este enlace: https://www.printables.com/model/818975-compact-robot-arm-arduino-3d-printed/files
-  Programación de un brazo robótico realizado en c++ y convertido a python.Este trabajo esta sacado de https://www.youtube.com/watch?v=AIsVlgopqJc&t=794sque es la parte 1 y https://www.youtube.com/watch?v=OiQKw0lZ5Rw&t=18s que es la parte 2.
   Lo primero de todo es pasar el codigo original de brazo robótico de c++ a python debido a que se utilizará una jetson nano.
 
   Los pasos en orden serian:
